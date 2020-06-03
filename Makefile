@@ -8,4 +8,9 @@ all: $(targets)
 $(targets):
 	make -C $@
 
-.PHONY: $(targets) all
+$(targets:=-clean): %-clean:
+	make -C $* clean
+
+clean: $(targets:=-clean)
+
+.PHONY: $(targets) $(targets:=-clean) all
