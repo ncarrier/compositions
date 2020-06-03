@@ -2,7 +2,7 @@
 
 ## Content
 
-Some of my compositions / transcriptions.
+Some of my compositions / transcriptions, for guitar (for now :) ).
 
 ## Prerequisites
 
