@@ -14,33 +14,33 @@ melody =  {
 	\mergeDifferentlyDottedOn
 	\mergeDifferentlyHeadedOn
 
-	<< { e,16 b, g b g b, } \\ { e,4. } >>
-	<< { fis,16 d a b a d } \\ { fis,4. } >>
+	<< { e,16 b,^2 g b g b, } \\ { e,4. } >>
+	<< { fis,16^1 d a^2 b a d } \\ { fis,4. } >>
 
-	<< { g,16 e g b g e } \\ { g,4. } >>
-	<< { a,16 g c' e' c' g } \\ { a,4. } >>
+	<< { g,16^3 e^2 g b g e } \\ { g,4. } >>
+	<< { a,16 g c'^1 e' c' g } \\ { a,4. } >>
 
-	<< { c16 a e' fis' e' a } \\ { c4. } >>
-	<< { c16 c' g'( a' g') c' } \\ { c4. } >>
+	<< { c16^2 a^1 e'^4 fis'^1 e' a } \\ { c4. } >>
+	<< { c16^1 c'^3 g'^1( a'^4 g') c' } \\ { c4. } >>
 
-	<< { b,16 b g'( a' g') b } \\ { b,4. } >>
-	<< { dis16 a fis'( g' fis') a } \\ { dis4. } >>
+	<< { b,16^1 b g'^3( a'^4 g') b } \\ { b,4. } >>
+	<< { dis16^1 a^2 fis'^3( g'^4 fis') a } \\ { dis4. } >>
 
 	%5
-	<< { e'16 b g d' g d } \\ { e8. c } >>
-	<< { d'16( b) e c'( b) e } \\ { b,4. } >>
+	<< { e'16 b g d'^4 g d } \\ { e8._1 c_3 } >>
+	<< { d'16^4( b) e^3 c'^1( b) e^2 } \\ { b,4._2 } >>
 
-	<< { a,16 e b c' b e r16 e b c' b e } \\ { a,2. } >>
+	<< { a,16 e^2 b^4 c'^1 b e r16 e b c' b e } \\ { a,2. } >>
 
-	<< { fis,16 e cis' e' cis' e } \\ { fis,4. } >>
-	<< { fis,16 e c' e' c' e } \\ { fis,4. } >>
+	<< { fis,16^2 e^3 cis'^4 e' cis' e } \\ { fis,4. } >>
+	<< { fis,16^2 e^3 c'^1 e' c' e } \\ { fis,4. } >>
 
-	<< { fis,16 e ais e' b ais fis'4. } \\ { fis,2. } >>
+	<< { fis,16^1 e^1 ais^2 e'^0 b^0 ais^2 fis'4.^1 } \\ { fis,2. } >>
 
 	\key b \minor
 
-	<< { b,16 fis d' fis' d' fis } \\ { b,4. } >>
-	<< { ais,16 e cis' e' cis' e } \\ { ais,4. } >>
+	<< { b,16^1 fis^3 d'^2 fis'^1 d' fis } \\ { b,4. } >>
+	<< { ais,16^1 e^2 cis'^3 e' cis' e } \\ { ais,4. } >>
 
 	%10
 	<< { a,16 e cis' e' cis' e } \\ { a,4. } >>
