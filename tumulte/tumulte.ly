@@ -67,7 +67,7 @@ melody =  {
 
 	\key fis \minor
 
-	<< { cis16 gis b f' a' b' } \\ { gis'4. } >>
+	<< { cis16 gis b fis' a' b' } \\ { gis'4. } >>
 	<< { cis''16 e ais d' e cis' } \\ { fis,4. } >>
 
 	<< { cis'16 d fis b a fis } \\ { b,4. } >>
